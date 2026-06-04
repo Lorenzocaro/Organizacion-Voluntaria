@@ -1,14 +1,11 @@
-class Coodinador : Persona
+public class Coordinador : Persona
 {
-    public Coordinador(string nombre, string documento) : base(nombre, documento)
-    {
-        
-    }
     private string areaAsignada;
     private int personasACargo;
     public string AreaAsignada {get {return areaAsignada;} set {this.areaAsignada = value;}}
     public int PersonasACargo {get {return personasACargo;} set {this.personasACargo = value;}}
-    public Coodinador(string areaAsignada, int personasACargo)
+    
+    public Coordinador(string nombre, string documento, string areaAsignada, int personasACargo) : base(nombre, documento)
     {
         this.AreaAsignada = areaAsignada;
         this.PersonasACargo = personasACargo;
