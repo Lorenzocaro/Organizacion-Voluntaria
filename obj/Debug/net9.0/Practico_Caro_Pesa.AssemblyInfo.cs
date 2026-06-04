@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practico_Caro_Pesa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5493830b5c3424c83e56d127f6e5dcc52e4aec33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e074bcbe9c8deb7992355bd739665805e63d857c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practico_Caro_Pesa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practico_Caro_Pesa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

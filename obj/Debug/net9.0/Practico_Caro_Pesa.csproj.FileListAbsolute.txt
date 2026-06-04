@@ -1,0 +1,15 @@
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\obj\Debug\net9.0\Practico_Caro_Pesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\obj\Debug\net9.0\Practico_Caro_Pesa.AssemblyInfoInputs.cache
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\obj\Debug\net9.0\Practico_Caro_Pesa.AssemblyInfo.cs
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\obj\Debug\net9.0\Practico_Caro_Pesa.csproj.CoreCompileInputs.cache
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\obj\Debug\net9.0\Practico_Caro_Pesa.sourcelink.json
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\bin\Debug\net9.0\Practico_Caro_Pesa.exe
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\bin\Debug\net9.0\Practico_Caro_Pesa.deps.json
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\bin\Debug\net9.0\Practico_Caro_Pesa.runtimeconfig.json
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\bin\Debug\net9.0\Practico_Caro_Pesa.dll
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\bin\Debug\net9.0\Practico_Caro_Pesa.pdb
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\obj\Debug\net9.0\Practico_Caro_Pesa.dll
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\obj\Debug\net9.0\refint\Practico_Caro_Pesa.dll
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\obj\Debug\net9.0\Practico_Caro_Pesa.pdb
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\obj\Debug\net9.0\Practico_Caro_Pesa.genruntimeconfig.cache
+C:\Users\facu\Desktop\Proyecto con lolon\Organizacion-Voluntaria\obj\Debug\net9.0\ref\Practico_Caro_Pesa.dll
