@@ -7,4 +7,11 @@ public class Voluntario : Persona
     {
         this.HorasTrabajadas = horasTrabajadas;
     }
+    public override void MostrarInfo()
+    {
+        Console.WriteLine($"Nombre: {Nombre}");
+        Console.WriteLine($"DNI: {Documento}");
+        Console.WriteLine($"Horas trabajadas: {HorasTrabajadas}");
+        Console.WriteLine("");
+    }
 }

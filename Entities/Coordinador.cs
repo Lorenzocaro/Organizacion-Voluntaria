@@ -10,4 +10,12 @@ public class Coordinador : Persona
         this.AreaAsignada = areaAsignada;
         this.PersonasACargo = personasACargo;
     }
+    public override void MostrarInfo()
+    {
+        Console.WriteLine($"Nombre: {Nombre}");
+        Console.WriteLine($"DNI: {Documento}");
+        Console.WriteLine($"Areas asignadas: {AreaAsignada}");
+        Console.WriteLine($"Personas a cargo: {PersonasACargo}");
+        Console.WriteLine("");
+    }
 }

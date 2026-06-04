@@ -12,5 +12,5 @@ public abstract class Persona
         this.Nombre = nombre;
         this.Documento = documento;
     }
-    
+    public abstract void MostrarInfo();
 }
